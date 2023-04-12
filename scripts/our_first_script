@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Author:  Vera Rykalina
+# Date Created:  07/04/2023
+# Last Modified: 07/04/2023
+
+# Description
+# Prints "This is my first script" to the terminal
+
+# Usage
+# our_first_script
+
+echo "This is my first script"
+exit 0
+
